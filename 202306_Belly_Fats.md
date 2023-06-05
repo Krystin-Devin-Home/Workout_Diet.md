@@ -1,6 +1,7 @@
 ## Plan
-- Exercise
-
+- **Diet**: protein > carbs 
+- Exercise:
+- Intermittent Fasting:
 
 ### 1) How to reduce belly fats? ⚖️
 <img src="https://fieldoffitness.com/wp-content/uploads/2018/05/Fotolia_59528226_Subscription_Monthly_M.jpg" width="300"/>
