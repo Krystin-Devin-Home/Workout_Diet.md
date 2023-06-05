@@ -1,2 +1,2 @@
-# Workout_Diet.md
+## Workout and Diet 🥒
 Plan and track workout and diet 
