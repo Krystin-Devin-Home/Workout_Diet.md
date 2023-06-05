@@ -1,6 +1,10 @@
-### 2) Cardio Training
+## Plan
+- Exercise
+
 
 ### 1) How to reduce belly fats? ⚖️
+<img src="https://fieldoffitness.com/wp-content/uploads/2018/05/Fotolia_59528226_Subscription_Monthly_M.jpg" width="300"/>
+
 [[Tips]](https://www.healthline.com/nutrition/20-tips-to-lose-belly-fat)
 - Eat plenty of **soluble fiber**: fruits, vege, legumes, oats, barley
   - Soluble fiber may help you to lose weight by increasing fullness and reducing calorie absorption 
@@ -21,4 +25,4 @@
 - Cut back on carbs, especially **refined carbs**  
   - Replacing refined carbs with unprocessed starchy carbs may improve metabolic health and reduce belly fat
 
-<img src="https://fieldoffitness.com/wp-content/uploads/2018/05/Fotolia_59528226_Subscription_Monthly_M.jpg" width="500"/>
+### 2) Cardio Training
