@@ -1,4 +1,4 @@
-## Belly fats
+# Belly fats ⚖️
 [[Tips]](https://www.healthline.com/nutrition/20-tips-to-lose-belly-fat)
 - Eat plenty of **soluble fiber**: fruits, vege, legumes, oats, barley
   - Soluble fiber may help you to lose weight by increasing fullness and reducing calorie absorption 
