@@ -3,5 +3,6 @@ Plan and track workout and diet
 
 
 ### Tracking
-- `202306`: 67kg -> 
-- `202307`: 
+- `202306`: 67kg
+- `202312`: 70kg
+- `202401`: 
